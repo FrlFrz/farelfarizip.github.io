@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Cormorant+SC&family=PT+Sans:wght@700&family=Quicksand:wght@700&display=swap');
+footer p {
+    margin-top: 0.5rem;
+}
+.futer {
+    margin-top: 2rem;
+    background-color: lightseagreen;
+}
+.navbar-brand {
+    font-family: 'Comfortaa';
+}
+ul li {
+    margin-right: 2rem;
+}
+.title {
+    padding: 5px;
+    background-color: #00cba9;
+}
+.profil {
+    margin-top: 2rem;
+}
+.title h1 {
+    color: white;
+    font-family: 'PT Sans';
+}
+.gambar img{
+    border-radius: 50%;
+}
+.desc {
+    margin-top: 2rem;
+}
+.about {
+    margin-top: 5rem;
+}
+.about-me {
+    background-color: #00cba9;
+}
+.ril {
+    margin: 2rem;
+}
+.project {
+    background-color: #00cba9;
+}
+#School {
+    background-color: #00cba9;
+}
+.futer a {
+    text-decoration: none;
+    color: white;
+}
+h2 {
+    font-family: 'PT Sans';
+}
+#About {
+    scroll-margin-top: 5rem;
+}
+#Know {
+    scroll-margin-top: 5rem;
+}
+#Pro {
+    scroll-margin-top: 5rem;
+}
